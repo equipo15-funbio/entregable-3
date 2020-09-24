@@ -1224,60 +1224,6 @@ a {
 .cid-sbtIikEd6g .card-box {
   text-align: left;
 }
-.cid-sbuhIUdEv4 {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-.cid-sbuhIUdEv4 .top-line {
-  display: flex;
-  justify-content: flex-end;
-}
-@media (max-width: 767px) {
-  .cid-sbuhIUdEv4 .top-line {
-    justify-content: center;
-  }
-}
-.cid-sbuhIUdEv4 .mbr-section-title,
-.cid-sbuhIUdEv4 .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-sbuhIUdEv4 .card:not(:nth-last-child(1)) {
-  margin-bottom: 2rem;
-}
-.cid-sbuhIUdEv4 .card-wrapper {
-  border-radius: 4px;
-  background-color: #ffffff;
-}
-.cid-sbuhIUdEv4 .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-@media (max-width: 767px) {
-  .cid-sbuhIUdEv4 .card-box {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-sbuhIUdEv4 .card-box {
-    padding-right: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-sbuhIUdEv4 .card-box {
-    padding-left: 2rem;
-    padding-right: 4rem;
-  }
-}
-.cid-sbuhIUdEv4 H3 {
-  color: #451404;
-}
-.cid-sbuhIUdEv4 .mbr-text {
-  color: #451404;
-}
-.cid-sbuhIUdEv4 .cost {
-  color: #451404;
-}
 .cid-sbugFy9XsM {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -1389,8 +1335,8 @@ a {
   color: #ffffff;
 }
 .cid-sbwcJmt2I4 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 @media (max-width: 991px) {
